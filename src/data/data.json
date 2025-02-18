@@ -1,0 +1,364 @@
+{
+    "medicines": [
+        {
+            "medicine_id": "MED001",
+            "name": "Paracetamol",
+            "manufacturer": "ABC Pharmaceuticals",
+            "dosage": "500mg",
+            "price": 5.99,
+            "expiration_date": "2025-12-31",
+            "stock": 1000
+        },
+        {
+            "medicine_id": "MED002",
+            "name": "Ibuprofen",
+            "manufacturer": "XYZ Pharma",
+            "dosage": "400mg",
+            "price": 7.50,
+            "expiration_date": "2024-11-15",
+            "stock": 750
+        },
+        {
+            "medicine_id": "MED003",
+            "name": "Amoxicillin",
+            "manufacturer": "DEF Drug Co.",
+            "dosage": "250mg",
+            "price": 12.00,
+            "expiration_date": "2023-10-20",
+            "stock": 500
+        },
+        {
+            "medicine_id": "MED004",
+            "name": "Lisinopril",
+            "manufacturer": "GHI Meds",
+            "dosage": "10mg",
+            "price": 15.75,
+            "expiration_date": "2026-05-25",
+            "stock": 300
+        },
+        {
+            "medicine_id": "MED005",
+            "name": "Metformin",
+            "manufacturer": "JKL Health",
+            "dosage": "500mg",
+            "price": 9.99,
+            "expiration_date": "2024-09-30",
+            "stock": 1200
+        },
+        {
+            "medicine_id": "MED006",
+            "name": "Omeprazole",
+            "manufacturer": "MNO Pharma",
+            "dosage": "20mg",
+            "price": 8.25,
+            "expiration_date": "2025-08-12",
+            "stock": 900
+        },
+        {
+            "medicine_id": "MED007",
+            "name": "Atorvastatin",
+            "manufacturer": "PQR Drugs",
+            "dosage": "40mg",
+            "price": 18.50,
+            "expiration_date": "2024-07-18",
+            "stock": 600
+        },
+        {
+            "medicine_id": "MED008",
+            "name": "Cetirizine",
+            "manufacturer": "STU Meds",
+            "dosage": "10mg",
+            "price": 4.75,
+            "expiration_date": "2025-06-22",
+            "stock": 1500
+        },
+        {
+            "medicine_id": "MED009",
+            "name": "Diazepam",
+            "manufacturer": "VWX Pharma",
+            "dosage": "5mg",
+            "price": 12.99,
+            "expiration_date": "2023-12-10",
+            "stock": 200
+        },
+        {
+            "medicine_id": "MED010",
+            "name": "Ciprofloxacin",
+            "manufacturer": "YZA Drugs",
+            "dosage": "500mg",
+            "price": 14.00,
+            "expiration_date": "2024-05-30",
+            "stock": 400
+        },
+        {
+            "medicine_id": "MED011",
+            "name": "Losartan",
+            "manufacturer": "BCD Pharma",
+            "dosage": "50mg",
+            "price": 10.50,
+            "expiration_date": "2025-04-15",
+            "stock": 800
+        },
+        {
+            "medicine_id": "MED012",
+            "name": "Levothyroxine",
+            "manufacturer": "EFG Meds",
+            "dosage": "100mcg",
+            "price": 6.99,
+            "expiration_date": "2026-03-20",
+            "stock": 700
+        },
+        {
+            "medicine_id": "MED013",
+            "name": "Amlodipine",
+            "manufacturer": "HIJ Pharma",
+            "dosage": "5mg",
+            "price": 9.25,
+            "expiration_date": "2024-02-28",
+            "stock": 550
+        },
+        {
+            "medicine_id": "MED014",
+            "name": "Metoprolol",
+            "manufacturer": "KLM Drugs",
+            "dosage": "50mg",
+            "price": 11.00,
+            "expiration_date": "2025-01-10",
+            "stock": 450
+        },
+        {
+            "medicine_id": "MED015",
+            "name": "Pantoprazole",
+            "manufacturer": "NOP Meds",
+            "dosage": "40mg",
+            "price": 7.75,
+            "expiration_date": "2023-11-30",
+            "stock": 300
+        },
+        {
+            "medicine_id": "MED016",
+            "name": "Simvastatin",
+            "manufacturer": "QRS Pharma",
+            "dosage": "20mg",
+            "price": 13.50,
+            "expiration_date": "2024-10-25",
+            "stock": 650
+        },
+        {
+            "medicine_id": "MED017",
+            "name": "Albuterol",
+            "manufacturer": "TUV Drugs",
+            "dosage": "2mg",
+            "price": 16.00,
+            "expiration_date": "2025-09-15",
+            "stock": 350
+        },
+        {
+            "medicine_id": "MED018",
+            "name": "Hydrochlorothiazide",
+            "manufacturer": "WXY Meds",
+            "dosage": "25mg",
+            "price": 5.50,
+            "expiration_date": "2024-08-20",
+            "stock": 500
+        },
+        {
+            "medicine_id": "MED019",
+            "name": "Gabapentin",
+            "manufacturer": "ZAB Pharma",
+            "dosage": "300mg",
+            "price": 19.99,
+            "expiration_date": "2025-07-05",
+            "stock": 400
+        },
+        {
+            "medicine_id": "MED020",
+            "name": "Clonazepam",
+            "manufacturer": "CDE Drugs",
+            "dosage": "1mg",
+            "price": 14.75,
+            "expiration_date": "2023-06-12",
+            "stock": 250
+        },
+        {
+            "medicine_id": "MED021",
+            "name": "Tramadol",
+            "manufacturer": "FGH Meds",
+            "dosage": "50mg",
+            "price": 22.00,
+            "expiration_date": "2024-05-18",
+            "stock": 300
+        },
+        {
+            "medicine_id": "MED022",
+            "name": "Fluoxetine",
+            "manufacturer": "IJK Pharma",
+            "dosage": "20mg",
+            "price": 8.99,
+            "expiration_date": "2025-04-22",
+            "stock": 600
+        },
+        {
+            "medicine_id": "MED023",
+            "name": "Warfarin",
+            "manufacturer": "LMN Drugs",
+            "dosage": "5mg",
+            "price": 10.25,
+            "expiration_date": "2024-03-30",
+            "stock": 200
+        },
+        {
+            "medicine_id": "MED024",
+            "name": "Prednisone",
+            "manufacturer": "OPQ Meds",
+            "dosage": "10mg",
+            "price": 6.50,
+            "expiration_date": "2025-02-14",
+            "stock": 450
+        },
+        {
+            "medicine_id": "MED025",
+            "name": "Loratadine",
+            "manufacturer": "RST Pharma",
+            "dosage": "10mg",
+            "price": 4.99,
+            "expiration_date": "2024-01-25",
+            "stock": 1000
+        },
+        {
+            "medicine_id": "MED026",
+            "name": "Doxycycline",
+            "manufacturer": "UVW Drugs",
+            "dosage": "100mg",
+            "price": 12.75,
+            "expiration_date": "2025-12-10",
+            "stock": 350
+        },
+        {
+            "medicine_id": "MED027",
+            "name": "Sertraline",
+            "manufacturer": "XYZ Meds",
+            "dosage": "50mg",
+            "price": 9.50,
+            "expiration_date": "2024-11-05",
+            "stock": 500
+        },
+        {
+            "medicine_id": "MED028",
+            "name": "Metronidazole",
+            "manufacturer": "ABC Pharma",
+            "dosage": "500mg",
+            "price": 11.25,
+            "expiration_date": "2025-10-20",
+            "stock": 400
+        },
+        {
+            "medicine_id": "MED029",
+            "name": "Citalopram",
+            "manufacturer": "DEF Drugs",
+            "dosage": "20mg",
+            "price": 7.99,
+            "expiration_date": "2024-09-15",
+            "stock": 550
+        },
+        {
+            "medicine_id": "MED030",
+            "name": "Furosemide",
+            "manufacturer": "GHI Meds",
+            "dosage": "40mg",
+            "price": 5.75,
+            "expiration_date": "2025-08-10",
+            "stock": 600
+        },
+        {
+            "medicine_id": "MED031",
+            "name": "Atenolol",
+            "manufacturer": "JKL Pharma",
+            "dosage": "50mg",
+            "price": 8.25,
+            "expiration_date": "2024-07-05",
+            "stock": 300
+        },
+        {
+            "medicine_id": "MED032",
+            "name": "Ranitidine",
+            "manufacturer": "MNO Drugs",
+            "dosage": "150mg",
+            "price": 6.99,
+            "expiration_date": "2025-06-01",
+            "stock": 700
+        },
+        {
+            "medicine_id": "MED033",
+            "name": "Escitalopram",
+            "manufacturer": "PQR Meds",
+            "dosage": "10mg",
+            "price": 10.50,
+            "expiration_date": "2024-05-20",
+            "stock": 450
+        },
+        {
+            "medicine_id": "MED034",
+            "name": "Pregabalin",
+            "manufacturer": "STU Pharma",
+            "dosage": "75mg",
+            "price": 18.75,
+            "expiration_date": "2025-04-15",
+            "stock": 250
+        },
+        {
+            "medicine_id": "MED035",
+            "name": "Clopidogrel",
+            "manufacturer": "VWX Drugs",
+            "dosage": "75mg",
+            "price": 14.00,
+            "expiration_date": "2024-03-10",
+            "stock": 400
+        },
+        {
+            "medicine_id": "MED036",
+            "name": "Montelukast",
+            "manufacturer": "YZA Meds",
+            "dosage": "10mg",
+            "price": 9.99,
+            "expiration_date": "2025-02-05",
+            "stock": 500
+        },
+        {
+            "medicine_id": "MED037",
+            "name": "Tamsulosin",
+            "manufacturer": "BCD Pharma",
+            "dosage": "0.4mg",
+            "price": 12.50,
+            "expiration_date": "2024-01-30",
+            "stock": 350
+        },
+        {
+            "medicine_id": "MED038",
+            "name": "Duloxetine",
+            "manufacturer": "EFG Drugs",
+            "dosage": "30mg",
+            "price": 16.75,
+            "expiration_date": "2025-12-25",
+            "stock": 200
+        },
+        {
+            "medicine_id": "MED039",
+            "name": "Insulin Glargine",
+            "manufacturer": "HIJ Meds",
+            "dosage": "100 units/mL",
+            "price": 25.00,
+            "expiration_date": "2024-11-20",
+            "stock": 150
+        },
+        {
+            "medicine_id": "MED040",
+            "name": "Rivaroxaban",
+            "manufacturer": "KLM Pharma",
+            "dosage": "20mg",
+            "price": 20.50,
+            "expiration_date": "2025-10-15",
+            "stock": 300
+        }
+    ]
+}
