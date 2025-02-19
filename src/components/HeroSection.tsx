@@ -1,11 +1,10 @@
 "use client";
 import { AuroraBackground } from "@/components/ui/aurora-background"
-import { motion } from "framer-motion";
+
 
 import React from 'react'
 import Cards from "./Cards";
-import Navbar from "./Navbar";
-import Link from "next/link";
+
 function HeroSection() {
     return (
         <div>

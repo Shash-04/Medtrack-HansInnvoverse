@@ -3,7 +3,6 @@ import {
   Package, Clock, ShoppingCart,
   AlertTriangle
 } from 'lucide-react';
-import data from "@/data/data.json"
 import MedicineCards from './MedicineCards';
 
 function page() {
